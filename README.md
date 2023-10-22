@@ -9,9 +9,6 @@ DIO LISTA DE CONTATOS
 - [x] Listar as pessoas em uma lista com sua respectiva foto
 - [x] Usar os outros componentes aprendidos
 
-## Checklist pessoal
-- [x] Salvar base64 da imagem no Back4App
-
 
 
 
