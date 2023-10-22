@@ -1,10 +1,4 @@
-# BOOTCAMP 2023 DIO LISTA DE CONTATOS
-
-
-## Screenshot:
-<div style="">
-<img src="https://api.onedrive.com/v1.0/drives/882515551C0A8F74/items/882515551C0A8F74!3085/content?cb=2023-10-02T20%3A44%3A29.107Z" alt="" style="height: 400px; width:240px;"/>
-</div>
+DIO LISTA DE CONTATOS
 
 
 ## Checklist do Desafio
@@ -20,4 +14,4 @@
 
 
 
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=em%20desenvolvimento.&color=EEAD2D&style=for-the-badge)
+
